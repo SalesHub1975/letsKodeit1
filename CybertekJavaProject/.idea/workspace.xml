@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae5c00f7-d24e-4d81-be0b-0a7e28e38a64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/CallCenter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/src/test/java/callCenterProject/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/src/test/java/callCenterProject/CallSupervisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/src/test/java/callCenterProject/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/src/test/java/callCenterProject/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CallCenter/src/test/java/callCenterProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/pages/AddNewStudentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/pages/SchoolHomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/steps/AddStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/DBUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/resources/features/school.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bowling/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bowling/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/ACMteam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/AlternatingCharacther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/BeautifulBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/ChocolateFeast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/ClosestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/CountingSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/FindTheMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/FunnyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/GameOfThrones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/Gemstones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/HackerrankInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/Kaprekar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/KaprekarNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/MissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/NonDivisibleSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/PalindromeIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/Pangrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/SeparateTheNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/ServiceLane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/SherlockAndSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/StrongPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/SuperReducesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/TwoCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/TwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/TwoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/WeightedUniformString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myWorkSpace/GetAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/AlbinaTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/AppendAndDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/BeautifulTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/BraviantFindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/BraviantTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/CholponTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/CloudJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Dinara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Eldiar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/FancyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/FindPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/HalloweenSales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/JSTAsk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/JavaCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/LibraryFine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/LoginTimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/ProgrammerTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/ReverseNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/SecondLowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/SequenceEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Snapshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/SortByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/StringReverseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/StrongPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/SuperReducedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/TaskFromApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/TextFilePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/Ulugbek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/UniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/UpsideDownTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ramis/WonderField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/DrinkVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Shelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/Shoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit/position_manger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ramis/TextFilePractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/ClosestNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ramis/StrongPassword.java" />
+        <option value="$PROJECT_DIR$/src/ramis/JavaCollection.java" />
+        <option value="$PROJECT_DIR$/src/bowling/Game.java" />
+        <option value="$PROJECT_DIR$/src/bowling/GameTest.java" />
+        <option value="$PROJECT_DIR$/src/FancyNumber.java" />
+        <option value="$PROJECT_DIR$/src/ramis/FancyNumber.java" />
+        <option value="$PROJECT_DIR$/src/ramis/Snapchot.java" />
+        <option value="$PROJECT_DIR$/src/ramis/CholponTask.java" />
+        <option value="$PROJECT_DIR$/src/ramis/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/ramis/ProgrammerTeacher.java" />
+        <option value="$PROJECT_DIR$/src/ramis/BraviantTask.java" />
+        <option value="$PROJECT_DIR$/src/ramis/Snapshot.java" />
+        <option value="$PROJECT_DIR$/src/ramis/AlbinaTask.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/LibraryTest.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/Library.java" />
+        <option value="$PROJECT_DIR$/src/ramis/BraviantFindMax.java" />
+        <option value="$PROJECT_DIR$/src/ramis/JSTAsk.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/SherlockAndSquares.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/ChocolateFeast.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/KaprekarNumber.java" />
+        <option value="$PROJECT_DIR$/src/ramis/Ulugbek.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/MissingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/Pairs.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/TwoStrings.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/SeparateTheNumbers.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/TwoTwo.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/Kaprekar.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/ServiceLane.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/HackerrankInAString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/AlternatingCharacther.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/Gemstones.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/CountingSort2.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/FunnyString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/StrongPassword.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/SuperReducesString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/TwoCharacters.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/Pangrams.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/FindTheMedian.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/PalindromeIndex.java" />
+        <option value="$PROJECT_DIR$/src/myWorkSpace/GetAge.java" />
+        <option value="$PROJECT_DIR$/src/ramis/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/BeautifulBinaryString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/NonDivisibleSubset.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/GameOfThrones.java" />
+        <option value="$PROJECT_DIR$/src/ramis/TextFilePractice.java" />
+        <option value="$PROJECT_DIR$/returnFile1710.txt" />
+        <option value="$PROJECT_DIR$/src/hackerrank/ACMteam.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/WeightedUniformString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/ClosestNumbers.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="708" />
+    <option name="y" value="30" />
+    <option name="width" value="1197" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CybertekJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CybertekJavaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CybertekJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CybertekJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClosestNumbers">
+    <configuration name="ACMteam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.ACMteam" />
+      <module name="CybertekJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClosestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.ClosestNumbers" />
+      <module name="CybertekJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOfThrones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.GameOfThrones" />
+      <module name="CybertekJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFilePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramis.TextFilePractice" />
+      <module name="CybertekJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedUniformString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.WeightedUniformString" />
+      <module name="CybertekJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClosestNumbers" />
+        <item itemvalue="Application.WeightedUniformString" />
+        <item itemvalue="Application.ACMteam" />
+        <item itemvalue="Application.TextFilePractice" />
+        <item itemvalue="Application.GameOfThrones" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae5c00f7-d24e-4d81-be0b-0a7e28e38a64" name="Default Changelist" comment="" />
+      <created>1558483061213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558483061213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16923077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30728242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.30017763" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11659919" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30728242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/UserAge.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ramis/JumpingOnTheClouds.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/certleader/Q52.java</url>
+          <line>6</line>
+          <properties class="certleader.Q52" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ramis/CutTheSticks.java</url>
+          <line>7</line>
+          <properties class="ramis.CutTheSticks" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ramis/JavaCollection.java</url>
+          <line>9</line>
+          <properties class="ramis.JavaCollection" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ramis/CholponTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/JavaCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/ProgrammerTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/BraviantTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/Snapshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="e#781#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/AlbinaTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/LibraryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/BraviantFindMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/SortByValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/SherlockAndSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/Ulugbek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/JSTAsk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/ChocolateFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/MissingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/SeparateTheNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/TwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/Pairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/KaprekarNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/TwoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/Kaprekar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/ServiceLane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/HackerrankInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/AlternatingCharacther.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/Gemstones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/CountingSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bowling/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/FunnyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/StrongPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/SuperReducesString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myWorkSpace.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1497">
+          <caret line="1948" selection-start-line="1948" selection-end-line="1948" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/TwoCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/Pangrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="8" selection-start-column="7" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/FindTheMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/PalindromeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myWorkSpace/GetAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/CaesarCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="9" selection-start-line="12" selection-start-column="7" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/BeautifulBinaryString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="27" selection-start-line="8" selection-start-column="8" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/NonDivisibleSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/GameOfThrones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/returnFile1710.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/WeightedUniformString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/ACMteam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ramis/TextFilePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/ClosestNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
