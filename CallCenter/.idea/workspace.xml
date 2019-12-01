@@ -1,114 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e535af93-780f-4f29-8e02-7bdeaec29b7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallCenter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/callCenterProject/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/callCenterProject/CallSupervisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/callCenterProject/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/callCenterProject/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/callCenterProject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/pages/AddNewStudentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/pages/SchoolHomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/steps/AddStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/DBUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CucumberEndToEnd/src/test/resources/features/school.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/bowling/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/bowling/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/ACMteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/AlternatingCharacther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/BeautifulBinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/ChocolateFeast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/ClosestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/CountingSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/FindTheMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/FunnyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/GameOfThrones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/Gemstones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/HackerrankInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/Kaprekar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/KaprekarNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/MissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/NonDivisibleSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/PalindromeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/Pangrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/SeparateTheNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/ServiceLane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/SherlockAndSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/StrongPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/SuperReducesString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/TwoCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/TwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/TwoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/hackerrank/WeightedUniformString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/interfaces/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/interfaces/LibraryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/myWorkSpace/GetAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/AlbinaTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/AppendAndDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/BeautifulTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/BraviantFindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/BraviantTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/CholponTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/CloudJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Dinara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Eldiar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/FancyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/FindPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/HalloweenSales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/JSTAsk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/JavaCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/LibraryFine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/LoginTimeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/ProgrammerTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/ReverseNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/SecondLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/SequenceEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Snapshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/SortByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/StringReverseMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/StrongPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/SuperReducedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/TaskFromApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/TextFilePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/Ulugbek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/UniqueNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/UpsideDownTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/ramis/WonderField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/DrinkVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/Shoro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CybertekJavaProject/src/replit/position_manger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e535af93-780f-4f29-8e02-7bdeaec29b7e" name="Default Changelist" comment="Dinara's project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CigramSynergyGitHub" beforeDir="false" afterPath="$PROJECT_DIR$/../CigramSynergyGitHub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cigramSynergyBriteERPCucumberSmoke" beforeDir="false" afterPath="$PROJECT_DIR$/../cigramSynergyBriteERPCucumberSmoke" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -119,45 +15,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/eRegistration.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/RegistrationStepDefs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="823">
-              <caret line="66" column="115" selection-start-line="66" selection-start-column="115" selection-end-line="66" selection-end-column="115" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1940#1941#0" expanded="true" />
-                <element signature="e#1979#1980#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -173,6 +39,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -230,55 +101,6 @@
             <path>
               <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
               <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallCenter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,6 +205,21 @@
       <option name="presentableId" value="Default" />
       <updated>1575144703940</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dinara's project">
+      <created>1575232507413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575232507413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dinara's project">
+      <created>1575232599963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575232599963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -421,17 +258,13 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15546559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
@@ -439,15 +272,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.294849" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dinara's project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dinara's project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/callCenterProject/Call.java">
@@ -525,15 +366,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBUtility.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/APIrunner.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/AndroidApp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DBUtility.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/APIrunner.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/AndroidApp.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.0/cucumber-core-4.2.0.jar!/cucumber/api/CucumberOptions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -558,13 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/configuration.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configuration.properties" />
     <entry file="file://$PROJECT_DIR$/configuration.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -576,24 +405,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/RegistrationStepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="66" column="115" selection-start-line="66" selection-start-column="115" selection-end-line="66" selection-end-column="115" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1940#1941#0" expanded="true" />
-            <element signature="e#1979#1980#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -615,17 +426,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/RegistrationStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="1020">
+          <caret line="66" column="115" selection-start-line="66" selection-start-column="115" selection-end-line="66" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1979#1980#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/eRegistration.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
